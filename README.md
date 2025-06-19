@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team Progress Management AI Slack Service
 
 This application provides a Slack-integrated service for managing team progress, generating reports, and automating team communications.
@@ -144,3 +145,6 @@ gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker -b 0.0.0.0:8000
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# slack_team
+>>>>>>> 68c064f8f19f09dd449ca1799d0a4d03fee2980a
